@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>AI Therapist</title>
+</head>
+<body>
+    <div class="container">
+        <h1>AI Therapist</h1>
+        <div class="chat-box" id="chat-box">
+            <div class="messages" id="messages">
+                <div class="message ai">
+                    <img src="https://i.pinimg.com/originals/0c/67/5a/0c675a8e1061478d2b7b21b330093444.gif" alt="Happy" class="emoticon">
+                    I'm here to chat and help.
+                </div>
+            </div>
+            <div id="countdown" class="countdown">
+                <p>Cooldown: <span id="timer">10</span> seconds</p>
+            </div>
+            
+            <div class="user-input" id="user-input-container">
+                <input type="text" id="user-input" placeholder="Type your message...">
+                <button id="send-button">Send</button>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
