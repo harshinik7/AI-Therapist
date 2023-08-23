@@ -33,7 +33,7 @@ The AI Therapist is your go-to companion for all those times when life throws le
 
 ## Credits
 
-- Cat pictures sourced from [pinterests](https://www.pinterest.com)
+- Cat pictures sourced from [Pinterest](https://www.pinterest.com)
 
 
 ## License
