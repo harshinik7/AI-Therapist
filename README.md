@@ -1,7 +1,7 @@
 
 # AI Therapist
 
-Feeling down? Need a virtual friend to talk to? Look no further than the AI Therapist! 🤖🦄
+Feeling down? Need a virtual friend to talk to? Well look no more, AI Therapist is here to save the day! 🤖🦄
 
 ## Overview
 
@@ -18,7 +18,7 @@ The AI Therapist is your go-to companion for all those times when life throws le
 ## How to Use
 
 1. Type in your message and hit Enter to chat with the AI Therapist.
-2. Mention emotions like "sad," "angry," "anxious," or ## [TW] "suicidal" to receive relevant advice.
+2. Mention emotions like "sad," "angry," "anxious," or **[TW]** "suicidal" to get relevant advice.
 3. Ask for song recommendations or funny cat pictures to improve your mood.
 4. When feeling angry, click on "cool down" and count to ten with the AI.
 
